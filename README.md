@@ -83,4 +83,6 @@ AdventureLogApp/
 │       └── useAdventures.js        # Adventures state management
 └── package.json
 ```
+## Demo
 
+[![Watch the video](https://raw.githubusercontent.com/jayrparro/AdventureLogApp/tree/main/thumbnail.jpg)](https://raw.githubusercontent.com/jayrparro/AdventureLogApp/tree/main/demo.mov)
