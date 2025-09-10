@@ -82,5 +82,5 @@ AdventureLogApp/
 │   └── hooks/                      # Custom React hooks
 │       └── useAdventures.js        # Adventures state management
 └── package.json
-```sh
+```
 
