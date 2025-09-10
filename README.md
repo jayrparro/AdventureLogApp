@@ -85,4 +85,4 @@ AdventureLogApp/
 ```
 ## Demo
 
-[![Watch the video](https://raw.githubusercontent.com/jayrparro/AdventureLogApp/tree/main/thumbnail.jpg)](https://raw.githubusercontent.com/jayrparro/AdventureLogApp/tree/main/demo.mov)
+[![Watch the video](https://github.com/jayrparro/AdventureLogApp/blob/main/thumbnail.png)](https://github.com/jayrparro/AdventureLogApp/blob/main/demo.mov)
