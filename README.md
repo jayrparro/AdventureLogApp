@@ -56,6 +56,7 @@ This is one way to run your app — you can also build it directly from Android 
 
 ## Step 3: Project/File structure
 
+```sh
 AdventureLogApp/
 ├── App.js                          # Main entry point
 ├── src/
@@ -81,5 +82,5 @@ AdventureLogApp/
 │   └── hooks/                      # Custom React hooks
 │       └── useAdventures.js        # Adventures state management
 └── package.json
-
+```sh
 
